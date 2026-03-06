@@ -1,0 +1,6 @@
+msal
+httpx
+pydantic
+python-dotenv
+anthropic
+typer
